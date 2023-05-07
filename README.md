@@ -1,5 +1,9 @@
 # **West Nile Virus Classification Model**
-This project aims to predict the presence of West Nile Virus in mosquitos across the city of Chicago. 
+West Nile Virus (WNV) first started appearing in Chicago in 2002. By 2004, the City of Chicago and the Chicago Department of Public Health (CDPH) had established a comprehensive surveillance and control program that is still in effect today.
+
+The goal for our project is to build a model that can accurately predict the presence of West Nile Virus given weather and testing data. In doing so, the model can also help us derive insights on potential patterns that may exist in how the virus spreads. These findings will ultimately benefit the CPDH in optimizing its resources and future strategy on containing WNV.
+
+Note that all of this data is publicly available and was provided as part of a Kaggle competition that was run in 2015 (https://www.kaggle.com/c/predict-west-nile-virus).
 
 # Data
 
